@@ -3,10 +3,10 @@
 ##################################################################################
 
 variable "aws_access_key" {
-  default = "AKIAZMN3E5WC2UFR7ZNI"
+  default = ""
 }
 variable "aws_secret_key" {
-  default = "tocrqWjlCNi6QqqI+HTB7DqKR3Cfg53WFsk1q5eV"
+  default = ""
 }
 variable "private_key_path" {
   default = "./mykey.pem"
